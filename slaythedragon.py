@@ -1,3 +1,4 @@
+# warning-> time limit was exceeded on the tests
 n = int(input())
 a = input().split()
 w = []
